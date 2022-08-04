@@ -20,6 +20,8 @@ public class C01_IfElseStatement {
         }else {
             System.out.println("Gecerli gun ismini giriniz");
         }
+        
+        System.out.println("Github'dan merhaba bir gun ismi giriniz");
 
 
     }
